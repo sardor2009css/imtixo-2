@@ -1,0 +1,47 @@
+
+}
+.span1{
+    color: rgb(250, 44, 16);
+}
+h1{
+    background-color: rgb(105, 169, 197);
+    text-align: center;
+    border: 10px solid rgb(241, 13, 32);
+    border-radius: 50px ;  
+}
+.p1{
+    color: blueviolet;
+}
+.li1{
+    color: chartreuse;
+}
+.li{
+    color: red;
+}
+.li3{
+    color: yellow;
+}
+.li4{
+    color: green;
+}
+.li5{
+    color: chocolate;
+}
+.tr1{
+    background-color: red;
+}
+.tr2{
+    background-color: blueviolet;
+}
+.td{
+    background-color: green;
+}
+.tr3{
+    background-color: blueviolet;
+}
+.td2{
+    background-color: green;
+}
+.but{
+    background-color: rgb(81, 240, 13);
+}
